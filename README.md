@@ -16,6 +16,7 @@
 ### 📩 Let’s Build Something Great!
 Need a professional website that performs seamlessly and looks stunning? I’m here to make it happen.
 
-💼 Let’s work together—Contact me today!
-mohamed.nahli [at] hotmail.com
-💼 LinkedIn: [linkedin.com/in/nahli](https://linkedin.com/in/nahli)
+---
+> 💼 Contact me!
+> - mohamed.nahli [at] hotmail.com
+> 💼 LinkedIn: [linkedin.com/in/nahli](https://linkedin.com/in/nahli)
