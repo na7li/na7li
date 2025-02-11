@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohamed Nahli 👋
-💻 Freelancer | WordPress Expert | Digital Marketing Specialist
-🌍 Based in Rabat, Morocco
+💻 Freelancer | WordPress Expert | Digital Marketing Specialist | Student at 1337 Coding School
+🌍 Based in Tetouan ~ Rabat, Morocco
 
 ### 🛠️ WordPress Expertise:
 - Website Creation: Building custom WordPress websites tailored to client needs.
